@@ -1,1 +1,2 @@
-this file is localy created file
+this file is a locally created file
+
